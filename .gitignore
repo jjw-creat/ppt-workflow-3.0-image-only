@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+output/
+build/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+~$*.pptx
