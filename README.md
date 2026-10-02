@@ -6,7 +6,7 @@
 
 > 想法 + 文字说明 + 参考资源 → 多种完整页面方向 → 选择与修改 → 整套页面图片 → 只图版 PPT
 
-[查看三页示例](examples/agri-remote-sensing/demo.pptx) · [使用工作流技能](SKILL.md) · [复制项目说明模板](templates/brief.md)
+[阅读使用指南](docs/使用指南.md) · [查看三页示例](examples/agri-remote-sensing/demo.pptx) · [使用工作流技能](SKILL.md) · [复制项目说明模板](templates/brief.md)
 
 ![农业遥感示例封面](examples/agri-remote-sensing/slides/01_overview.png)
 
@@ -110,6 +110,7 @@ python -m unittest discover -s tests -v
 
 ```text
 README.md
+docs/使用指南.md
 SKILL.md
 VERSION
 requirements.txt
